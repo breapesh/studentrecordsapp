@@ -1,0 +1,3 @@
+UICT001|John Peter|85
+UICT002|Mary Jane|78
+UICT003|David James|90
